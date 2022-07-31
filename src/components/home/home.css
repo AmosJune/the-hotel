@@ -1,0 +1,20 @@
+.meal-wrapper,
+.meal-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+.meal-items {
+  margin-top: 2rem;
+}
+
+.search {
+  margin-inline: auto;
+  width: 25rem;
+  margin-top: 2rem;
+}
+
+.search-label {
+  margin-right: 1rem;
+}
