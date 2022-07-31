@@ -1,0 +1,26 @@
+.meal-add {
+  width: 50%;
+  margin-inline: auto;
+  box-shadow: 0 0 5px hsl(0, 0%, 0%, 0.4);
+  padding: 1rem 2rem;
+  margin-top: 1rem;
+  max-width: 30rem;
+}
+
+.meal-add label {
+  margin-right: 2rem;
+  margin-top: 0.5rem;
+}
+
+.meal-add input {
+  width: 100%;
+}
+
+.meal-title{
+    font-size: 1.4rem;
+}
+
+.description{
+  width: 100%;
+
+}
